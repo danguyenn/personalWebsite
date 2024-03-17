@@ -1,0 +1,41 @@
+.header{
+
+}
+
+.section{
+    
+}
+
+.contactContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.contactInfo{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.contactSpotify{
+    justify-content: center;
+    text-align: center;
+}
+
+.embedSpotify{
+    border-radius: 12px;
+    height: 500px;
+    width: 700px;
+}
+
+.contactText{
+    font-family: 'Sofia Sans Condensed';
+    font-size: 25px;
+    margin: 15px;
+}
+
+.contactText:hover{
+    font-weight: 700;
+    color: #4d5d53;
+}
+

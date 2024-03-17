@@ -1,0 +1,47 @@
+.homeContainer{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 500px;
+}
+
+.intro{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+
+.homeSectionText{
+    align-self: center;
+    justify-content: center;
+}
+
+.homeHeader{
+    font-size: 8vh;
+    font-family: 'Sofia Sans Condensed';
+    color: #4d5d53;
+    font-weight: 700;
+    margin-bottom: 0px;
+    align-self: center;
+    justify-content: center;
+}
+
+.homeText{
+    font-family: 'Sofia Sans Condensed';
+    font-size: 25px;
+}
+
+.musicSection{
+    display: block;
+    align-items: center;
+    align-content: center;
+}
+
+.subIntro{
+    margin-left: 25px;
+    justify-content: center;   
+}
+
+.footer{
+    bottom: 0;
+    position: absolute;
+}
